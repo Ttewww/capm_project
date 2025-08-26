@@ -44,9 +44,7 @@ MARKETLINE = function(stocks){
 stocks <- c("MC.PA","OR.PA","SAF.PA","TTE.PA","SU.PA","BNP.PA","LR.PA","DG.PA","AI.PA")
 MARKETLINE(stocks)
 
-## so, after struggling for a hour to do this prompt, i have some things to remember : 
-# when i have a return, it immediately exits, skipping any code that follow, including the plot that i wan tot show
-# to use the data frame MARKET_LINE to plot the market line, i have to put it before the ggplot.
+
 
 
 
